@@ -1,5 +1,5 @@
 //=============================================================================
-// rpg_core.js v1.6.2
+// rpg_core.js v1.6.1
 //=============================================================================
 
 //-----------------------------------------------------------------------------
@@ -290,7 +290,7 @@ Utils.generateRuntimeId = function(){
 Utils._supportPassiveEvent = null;
 /**
  * Test this browser support passive event feature
- * 
+ *
  * @static
  * @method isSupportPassiveEvent
  * @return {Boolean} this browser support passive event or not
