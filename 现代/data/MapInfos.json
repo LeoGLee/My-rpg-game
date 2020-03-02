@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"森林小镇","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":1174},
+{"id":2,"expanded":true,"name":"双人武器店","order":2,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"武器/防具店后屋","order":3,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"旅馆 1F","order":4,"parentId":1,"scrollX":1082,"scrollY":624},
+{"id":5,"expanded":false,"name":"旅馆 2F","order":5,"parentId":4,"scrollX":832,"scrollY":640}
+]
